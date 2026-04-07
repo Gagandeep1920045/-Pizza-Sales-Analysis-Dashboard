@@ -43,10 +43,19 @@ Key takeaways for the business:
 
 ---
 
-### 📷 Dashboard Preview
+## 4. 📷 Dashboard Preview
 
 ## Overview🏠
 ![Alt_text](https://github.com/Gagandeep1920045/-Pizza-Sales-Analysis-Dashboard/blob/main/Pizza%20Sale%20Dashboard%20-%20Overview.png)  
 
 ## Best/Worst Seller⭐
-![Alt_text](https://github.com/Gagandeep1920045/-Pizza-Sales-Analysis-Dashboard/blob/main/Pizza%20Sale%20Dashboard%20-%20Best-Worst%20Seller.png)
+![Alt_text](https://github.com/Gagandeep1920045/-Pizza-Sales-Analysis-Dashboard/blob/main/Pizza%20Sale%20Dashboard%20-%20Best-Worst%20Seller.png)  
+
+## 5. Conclusion🧠
+This project helped me practice how to turn raw sales data into a business-focused dashboard that answers real questions.  
+
+It was not just about creating charts. It was about building a report that tells a story:  
+* What is happening in the business.  
+* Why it is happening.  
+* Where action can be taken.  
+#### That is where analytics becomes valuable. Numbers stop being random noise and start behaving like evidence.
