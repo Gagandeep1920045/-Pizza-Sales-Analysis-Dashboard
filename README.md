@@ -39,6 +39,14 @@ Key takeaways for the business:
 * The Underperformer: The Brie Carre Pizza consistently ranks at the bottom for revenue, quantity, and orders.  
 
 * Recommendation: Consider a promotional campaign or "bundle deal" for the Brie Carre to increase movement, or consider replacing it with a new flavor profile similar to the "Classic" category, which holds 30% of the total sales volume.
-#### 4. Customer Behavior : With an Average Order Value of $38.31, marketing efforts could focus on "Upselling" sides or drinks to push the average closer to the $45 revenue.  
+#### 4. Customer Behavior : With an Average Order Value of $38.31, marketing efforts could focus on "Upselling" sides or drinks to push the average closer to the $45 revenue.
+
+---
 
 ### 📷 Dashboard Preview
+
+## Overview🏠
+![Alt_text](https://github.com/Gagandeep1920045/-Pizza-Sales-Analysis-Dashboard/blob/main/Pizza%20Sale%20Dashboard%20-%20Overview.png)  
+
+## Best/Worst Seller⭐
+![Alt_text](https://github.com/Gagandeep1920045/-Pizza-Sales-Analysis-Dashboard/blob/main/Pizza%20Sale%20Dashboard%20-%20Best-Worst%20Seller.png)
